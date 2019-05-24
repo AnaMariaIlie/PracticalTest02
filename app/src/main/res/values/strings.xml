@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PracticalTest02</string>
+    <string name="server">Server</string>
+    <string name="server_port">port</string>
+    <string name="connect">connect</string>
+    <string name="client">client</string>
+    <string name="client_address">url</string>
+    <string name="get_weather_forecast" > connect </string>
+    <string-array name="information_types">
+        <item>www.google.com</item>
+        <item>www.facebook.com</item>
+        <item>www.twitter.com</item>
+        <item>www.bad.com</item>
+        <item>^</item>
+        <item>%</item>
+    </string-array>
+</resources>
